@@ -1,19 +1,16 @@
-<!-- 헤더 -->
+<!-- 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&text=Kang%20Yeonjae&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Building%20beyond%20the%20code%2C%20creating%20real%20experiences&descFontSize=15&descFontColor=aaaaaa&descAlignY=62" />
-</div>
-
-<!-- 타이핑 애니메이션 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B8CDE&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;막히면+끝까지+파고드는+개발자+%F0%9F%94%A5;멈추지+않는+개발자%2C+강연재입니다" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=220&section=header&text=Kang%20Yeonjae&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Building%20beyond%20the%20code%2C%20creating%20real%20experiences&descFontSize=15&descFontColor=ffffff&descAlignY=62" />
 </div>
 
 <br/>
 
+<!-- 자기소개 -->
 <div align="center">
 
 좋은 서비스는 명확한 의도에서 시작된다고 믿습니다.<br/>
-기획의 의도를 기능으로 옮기고, **사용자 경험으로 완성하는 개발자, 강연재입니다.**
+기획의 의도를 기능으로 옮기고, **사용자 경험으로 완성하는 개발자, 강연재입니다.**<br/><br/>
+막히면 끝까지 파고드는, **"멈추지 않는 개발자"** 🔥
 
 </div>
 
@@ -102,8 +99,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeooooooon&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooooooon&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeooooooon&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooooooon&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
 
 <br/>
@@ -111,9 +108,9 @@
 ---
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeooooooon&count_bg=%237B8CDE&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeooooooon&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer"/>
 </div>

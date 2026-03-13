@@ -54,6 +54,7 @@
 **AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
 **Tools**
 
@@ -73,32 +74,54 @@
 
 <br/>
 
-**🍀 Crave** — 사용자 맞춤형 AI 서비스 시스템
-
-`React Native` `Node.js` `Firebase` `OpenAI` `Illustrator` | 10주간 진행
-
-> 실생활에서 자주 필요한 작업을 AI로 자동화하는 앱 기반 플랫폼
-
-- OpenAI API를 활용한 개인화 콘텐츠 생성 (음악 추천, 가사 생성, 칼로리 계산)
-- Firebase를 통한 사용자 정보 유지 및 인증
-- 관심 분야 기반 맞춤형 서비스 제공
-
-🔗 [GitHub](https://github.com/yeooooooon/crave)
+#### 📱 Mobile
 
 <br/>
 
-**✍️ 바른 글씨** — AI 기반 손글씨 교정 플랫폼
+🍀 **사용자 맞춤형 AI 서비스 앱, Crave**
 
-`Python` `FastAPI` `JavaScript` `OpenAI` `Machine Learning` | 8주간 진행
+> "실생활에서 자주 필요한 작업을 AI로 자동화하여, 개인의 선호에 맞는 맞춤형 서비스를 제공하는 앱 기반 플랫폼입니다."
 
-> 손글씨를 AI로 분석하여 실시간 피드백과 교정 학습을 제공하는 웹 플랫폼
+🧑‍💻 **담당 기능**
 
-- OpenAI Vision API 기반 손글씨 인식 및 유사도 측정
-- 문제 영역 색상 표시 및 실시간 피드백
-- 사용자 간 순위 경쟁 시스템
+[UI 구현, Firebase 및 OpenAI API 연동]
 
-🔗 [GitHub](https://github.com/yeooooooon/handwriting-ai-web)
+- 사용자의 관심사를 기반으로 콘텐츠를 추천하는 화면 흐름 설계 및 UI 구현
+- OpenAI API를 활용한 가사 생성 및 텍스트 요약 기능 구현
+- Firebase를 통한 사용자 정보 유지 및 인증 처리
+- 오류·응답 지연 발생 시 로딩 처리 및 화면 전환 구조 개선
+
+📌 프로젝트 링크: [Crave](https://github.com/yeooooooon/crave)
 
 <br/>
 
 ---
+
+#### 🖥 Web
+
+<br/>
+
+✍️ **AI 기반 손글씨 교정 플랫폼, 바른 글씨**
+
+> "사용자의 손글씨를 AI로 분석하여 표준 글씨와 비교하고, 실시간 피드백과 교정 학습을 제공하는 웹 기반 플랫폼입니다."
+
+🧑‍💻 **담당 기능**
+
+[웹 프론트엔드 구현, 서비스 아키텍처 설계]
+
+- FastAPI 서버와 연동되는 웹 프론트엔드 구현
+- 손글씨 이미지 업로드 후 분석 결과를 직관적으로 확인할 수 있는 화면 구성
+- 프론트엔드–백엔드–외부 API 간 데이터 흐름 정리 및 서비스 아키텍처 공동 설계
+- OpenAI Vision API 기반 손글씨 인식 및 유사도 측정, 문제 영역 색상 표시
+
+📌 프로젝트 링크: [바른 글씨](https://github.com/yeooooooon/handwriting-ai-web)
+
+<br/>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yeooooooon&color=000000&style=flat-square&label=visitors)
+
+</div>

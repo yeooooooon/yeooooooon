@@ -1,16 +1,40 @@
-<!-- 헤더 배너 -->
+<!-- 타이핑 애니메이션 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=220&section=header&text=Kang%20Yeonjae&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Building%20beyond%20the%20code%2C%20creating%20real%20experiences&descFontSize=15&descFontColor=ffffff&descAlignY=62" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&height=80&lines=Building+beyond+the+code+%F0%9F%92%BB;Creating+real+experiences+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<!-- 말풍선 스타일 자기소개 박스 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=f0f0f0&height=180&text=Building%20beyond%20the%20code,%20creating%20real%20experiences.&fontSize=18&fontColor=111111&fontAlignY=45&desc=코드%20너머의%20세상을%20구현하는%20개발자&descFontSize=14&descFontColor=555555&descAlignY=68" />
 </div>
 
 <br/>
 
-<!-- 자기소개 -->
 <div align="center">
 
+안녕하세요.
+
 좋은 서비스는 명확한 의도에서 시작된다고 믿습니다.<br/>
-기획의 의도를 기능으로 옮기고, **사용자 경험으로 완성하는 개발자, 강연재입니다.**<br/><br/>
-막히면 끝까지 파고드는, **"멈추지 않는 개발자"** 🔥
+기획의 의도를 기능으로 옮기고, **사용자 경험으로 완성하는 개발자, 강연재입니다.**
+
+주변 사람들은 저를 끈기 있고 긍정적인 사람이라고 말합니다.<br/>
+언제나 막히면 끝까지 파고드는, **"멈추지 않는 개발자"** 가 되고 싶습니다.
+
+</div>
+
+<br/>
+
+---
+
+### 👤 About Me
+
+<div align="center">
+
+| 📛 | 강 연 재 / Kang Yeonjae |
+|:---:|:---|
+| 📧 | duswo0907@gmail.com |
+| 🏫 | 배화여자대학교 스마트IT학과 `2022.03 ~ 2025.02` |
+| 🏫 | 명지전문대학교 컴퓨터공학과 전공심화 `2025.03 ~ 2026.02` |
 
 </div>
 
@@ -22,37 +46,32 @@
 
 <div align="center">
 
-**💬 Languages**
+**Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 
-**🖥 Front-End**
+**Front-End**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
 
-**📱 Mobile**
+**Mobile**
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB)
 
-**⚙️ Back-End & DB**
+**Back-End & DB**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-**🤖 AI / ML**
+**AI / Tools**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**🎨 Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
 
 </div>
 
@@ -68,7 +87,7 @@
 
 **🍀 Crave** — 사용자 맞춤형 AI 서비스 시스템
 
-`React Native` `Node.js` `Firebase` `OpenAI` `Illustrator` | 10주간 진행
+`React Native` `Node.js` `Firebase` `OpenAI` | 10주간 진행
 
 > 실생활에서 자주 필요한 작업을 AI로 자동화하는 앱 기반 플랫폼
 
@@ -82,7 +101,7 @@
 
 **✍️ 바른 글씨** — AI 기반 손글씨 교정 플랫폼
 
-`Python` `FastAPI` `JavaScript` `OpenAI` `Machine Learning` | 8주간 진행
+`Python` `FastAPI` `JavaScript` `OpenAI` | 8주간 진행
 
 > 손글씨를 AI로 분석하여 실시간 피드백과 교정 학습을 제공하는 웹 플랫폼
 
@@ -96,21 +115,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeooooooon&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeooooooon&layout=compact&theme=radical&hide_border=true" height="150"/>
-</div>
 
-<br/>
+![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeooooooon&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)
 
----
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeooooooon&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer"/>
 </div>

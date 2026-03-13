@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -37,7 +37,6 @@
 
 **Front-End**
 
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
 
@@ -67,13 +66,13 @@
 
 ---
 
-### 🧩 Projects
+## 🧩 Projects
 
 > 저를 성장시켜 주었던 소중한 작품들입니다.
 
 <br/>
 
-#### 📱 Mobile
+### 📱 Mobile
 
 <br/>
 
@@ -96,7 +95,7 @@
 
 ---
 
-#### 🖥 Web
+### 🖥 Web
 
 <br/>
 
@@ -111,7 +110,7 @@
 - FastAPI 서버와 연동되는 웹 프론트엔드 구현
 - 손글씨 이미지 업로드 후 분석 결과를 직관적으로 확인할 수 있는 화면 구성
 - 프론트엔드–백엔드–외부 API 간 데이터 흐름 정리 및 서비스 아키텍처 공동 설계
-- OpenAI Vision API 기반 손글씨 인식 및 유사도 측정, 문제 영역 색상 표시
+- OpenAI Vision API 기반 손글씨 인식 및 유사도 측정
 
 📌 프로젝트 링크: [바른 글씨](https://github.com/yeooooooon/handwriting-ai-web)
 

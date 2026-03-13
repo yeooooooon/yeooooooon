@@ -26,22 +26,6 @@
 
 ---
 
-### 👤 About Me
-
-<div align="center">
-
-| 📛 | 강 연 재 / Kang Yeonjae |
-|:---:|:---|
-| 📧 | duswo0907@gmail.com |
-| 🏫 | 배화여자대학교 스마트IT학과 `2022.03 ~ 2025.02` |
-| 🏫 | 명지전문대학교 컴퓨터공학과 전공심화 `2025.03 ~ 2026.02` |
-
-</div>
-
-<br/>
-
----
-
 ### 🛠 Tech Stack
 
 <div align="center">
@@ -67,10 +51,14 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-**AI / Tools**
+**AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
+
+**Tools**
+
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
+![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
 
 </div>
@@ -87,7 +75,7 @@
 
 **🍀 Crave** — 사용자 맞춤형 AI 서비스 시스템
 
-`React Native` `Node.js` `Firebase` `OpenAI` | 10주간 진행
+`React Native` `Node.js` `Firebase` `OpenAI` `Illustrator` | 10주간 진행
 
 > 실생활에서 자주 필요한 작업을 AI로 자동화하는 앱 기반 플랫폼
 
@@ -101,7 +89,7 @@
 
 **✍️ 바른 글씨** — AI 기반 손글씨 교정 플랫폼
 
-`Python` `FastAPI` `JavaScript` `OpenAI` | 8주간 진행
+`Python` `FastAPI` `JavaScript` `OpenAI` `Machine Learning` | 8주간 진행
 
 > 손글씨를 AI로 분석하여 실시간 피드백과 교정 학습을 제공하는 웹 플랫폼
 
@@ -117,6 +105,6 @@
 
 <div align="center">
 
-![Visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeooooooon&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)
+![Profile Views](https://komarev.com/ghpvc/?username=yeooooooon&color=000000&style=flat-square&label=visitors)
 
 </div>

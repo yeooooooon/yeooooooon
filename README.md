@@ -102,9 +102,3 @@
 <br/>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yeooooooon&color=000000&style=flat-square&label=visitors)
-
-</div>

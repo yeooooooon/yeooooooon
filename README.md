@@ -54,7 +54,6 @@
 **AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
 **Tools**
 

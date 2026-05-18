@@ -1,25 +1,18 @@
-<!-- 타이핑 애니메이션 -->
+<!-- 와이드 헤더 배너 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&height=80&lines=Building+beyond+the+code+%F0%9F%92%BB;Creating+real+experiences+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<!-- 말풍선 스타일 자기소개 박스 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=f0f0f0&height=180&text=Building%20beyond%20the%20code,%20creating%20real%20experiences.&fontSize=18&fontColor=111111&fontAlignY=45&desc=코드%20너머의%20세상을%20구현하는%20개발자&descFontSize=14&descFontColor=555555&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,100:e0e0e0&height=200&section=header&text=Kang%20Yeon%20Jae&fontSize=55&fontColor=222222&fontAlignY=38&desc=Building%20beyond%20the%20code,%20creating%20real%20experiences.&descAlignY=62&descSize=16&descColor=555555" />
 </div>
 
 <br/>
 
+<!-- 컨택트 -->
 <div align="center">
-
-안녕하세요.
-
-좋은 서비스는 명확한 의도에서 시작된다고 믿습니다.<br/>
-기획의 의도를 기능으로 옮기고, **사용자 경험으로 완성하는 개발자, 강연재입니다.**
-
-주변 사람들은 저를 끈기 있고 긍정적인 사람이라고 말합니다.<br/>
-언제나 막히면 끝까지 파고드는, **"멈추지 않는 개발자"** 가 되고 싶습니다.
-
+  <a href="mailto:duswo0907@gmail.com">
+    <img src="https://img.shields.io/badge/duswo0907@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yeooooooon">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -96,6 +89,28 @@
 ---
 
 ### 🖥 Web
+
+<br/>
+
+🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript` `Mermaid`
+
+> "사용자의 감정과 무드를 바탕으로 가장 잘 어울리는 영화를 추천해 주는 웹 서비스입니다."
+
+🧑‍💻 **담당 기능**
+
+[서비스 기획, 프론트엔드 전반 구현]
+
+- OTT 플랫폼 과잉 시대의 콘텐츠 선택 피로를 줄이기 위한 **감성/무드 기반 추천 서비스** 기획
+- 8종의 무드 키워드 선택 UI 및 무드별 영화 3편 추천 로직 구현
+- 영화 상세 페이지에서 평점·예고편을 함께 제공하는 몰입형 화면 구성
+- 순수 CSS 기반의 애니메이션·반투명 효과·컬러 트랜지션으로 감성적인 UI 구현
+- Mermaid를 활용한 서비스 아키텍처 다이어그램 설계 및 About 페이지 구성
+
+📌 프로젝트 링크: [Today's Scene](https://github.com/yeooooooon/todays-scene)
+
+<br/>
+
+---
 
 <br/>
 

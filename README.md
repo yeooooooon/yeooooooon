@@ -1,6 +1,6 @@
 <!-- 와이드 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,100:e0e0e0&height=200&section=header&text=Kang%20Yeon%20Jae&fontSize=55&fontColor=222222&fontAlignY=38&desc=Building%20beyond%20the%20code,%20creating%20real%20experiences.&descAlignY=62&descSize=16&descColor=555555" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6f1fb,100:b5d4f4&height=200&section=header&text=Kang%20Yeon%20Jae&fontSize=55&fontColor=0c447c&fontAlignY=38&desc=Building%20beyond%20the%20code,%20creating%20real%20experiences.&descAlignY=62&descSize=16&descColor=185fa5" />
 </div>
 
 <br/>

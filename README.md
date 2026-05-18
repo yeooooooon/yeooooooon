@@ -92,7 +92,7 @@
 
 <br/>
 
-🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript` `Mermaid`
+🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript`
 
 > "사용자의 감정과 무드를 바탕으로 가장 잘 어울리는 영화를 추천해 주는 웹 서비스입니다."
 

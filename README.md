@@ -106,7 +106,7 @@
 - 순수 CSS 기반의 애니메이션·반투명 효과·컬러 트랜지션으로 감성적인 UI 구현
 - Mermaid를 활용한 서비스 아키텍처 다이어그램 설계 및 About 페이지 구성
 
-📌 프로젝트 링크: [Today's Scene](https://github.com/yeooooooon/todays-scene)
+📌 프로젝트 링크: [Today's Scene](https://github.com/yeooooooon/Today-s-Scene)
 
 <br/>
 

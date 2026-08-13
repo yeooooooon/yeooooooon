@@ -41,6 +41,7 @@
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
@@ -98,7 +99,7 @@
 
 <br/>
 
-🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript` `Java 17` `Spring Boot` `MySQL`
+🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript` `Java 17` `Spring Boot` `REST API` `MySQL`
 
 > "사용자의 감정과 무드를 바탕으로 가장 잘 어울리는 영화를 추천해 주는 웹 서비스입니다."
 
@@ -111,7 +112,7 @@
 - 영화 상세 페이지에서 평점·예고편을 함께 제공하는 몰입형 화면 구성
 - 순수 CSS 기반의 애니메이션·반투명 효과·컬러 트랜지션으로 감성적인 UI 구현
 - Mermaid를 활용한 서비스 아키텍처 다이어그램 설계 및 About 페이지 구성
-- Spring Boot·MySQL 기반 백엔드와 연동되는 프론트엔드 화면 구현
+- Spring Boot 기반 REST API로 백엔드와 연동되는 프론트엔드 화면 구현
 
 📌 프로젝트 링크: [Today's Scene](https://github.com/yeooooooon/Today-s-Scene)
 

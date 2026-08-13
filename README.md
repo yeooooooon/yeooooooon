@@ -69,17 +69,17 @@
 
 <br/>
 
-🍀 **사용자 맞춤형 AI 서비스 앱, Crave** `Node.js` `Firebase` `React Native` `OpenAI` `Illustrator`
+🍀 **사용자 맞춤형 AI 콘텐츠 생성 앱, Crave** `React Native (Expo)` `Firebase` `OpenAI` `Figma` `Illustrator`
 
-> "실생활에서 자주 필요한 작업을 AI로 자동화하여, 개인의 선호에 맞는 맞춤형 서비스를 제공하는 앱 기반 플랫폼입니다."
+> "사용자의 관심사와 키워드를 기반으로 AI가 가사, 문장, 추천 문구 등 다양한 콘텐츠를 생성해주는 개인화 AI 서비스 앱입니다."
 
 🧑‍💻 **담당 기능**
 
 [UI 구현, Firebase 및 OpenAI API 연동]
 
-- 사용자의 관심사를 기반으로 콘텐츠를 추천하는 화면 흐름 설계 및 UI 구현
-- OpenAI API를 활용한 텍스트 생성 기능 구현
-- Firebase를 통한 사용자 정보 유지 및 인증 처리
+- 관심사 선택 → 기능 선택 → 결과 확인으로 이어지는 직관적인 화면 흐름 설계 및 UI 구현
+- OpenAI API를 활용해 키워드·상황에 맞는 텍스트(가사, 문장, 추천 문구 등) 자동 생성 기능 구현
+- Firebase Authentication 기반 사용자 계정 관리 및 즐겨찾기 기능 구현
 - 오류·응답 지연 발생 시 로딩 처리 및 화면 전환 구조 개선
 
 📌 프로젝트 링크: [Crave](https://github.com/yeooooooon/crave)
@@ -92,7 +92,7 @@
 
 <br/>
 
-🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript`
+🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript` `Java 17` `Spring Boot` `MySQL`
 
 > "사용자의 감정과 무드를 바탕으로 가장 잘 어울리는 영화를 추천해 주는 웹 서비스입니다."
 
@@ -105,6 +105,7 @@
 - 영화 상세 페이지에서 평점·예고편을 함께 제공하는 몰입형 화면 구성
 - 순수 CSS 기반의 애니메이션·반투명 효과·컬러 트랜지션으로 감성적인 UI 구현
 - Mermaid를 활용한 서비스 아키텍처 다이어그램 설계 및 About 페이지 구성
+- Spring Boot·MySQL 기반 백엔드와 연동되는 프론트엔드 화면 구현
 
 📌 프로젝트 링크: [Today's Scene](https://github.com/yeooooooon/Today-s-Scene)
 
@@ -114,7 +115,7 @@
 
 <br/>
 
-✍️ **AI 기반 손글씨 교정 플랫폼, 바른 글씨** `Python` `FastAPI` `JavaScript` `OpenAI`
+✍️ **AI 기반 손글씨 교정 플랫폼, Quartet(콰르텟)** `Python` `FastAPI` `JavaScript` `HTML` `CNN`
 
 > "사용자의 손글씨를 AI로 분석하여 표준 글씨와 비교하고, 실시간 피드백과 교정 학습을 제공하는 웹 기반 플랫폼입니다."
 
@@ -125,7 +126,8 @@
 - FastAPI 서버와 연동되는 웹 프론트엔드 구현
 - 손글씨 이미지 업로드 후 분석 결과를 직관적으로 확인할 수 있는 화면 구성
 - 프론트엔드–백엔드–외부 API 간 데이터 흐름 정리 및 서비스 아키텍처 공동 설계
-- OpenAI Vision API 기반 손글씨 인식 및 유사도 측정
+- CNN 기반 글씨체 인식 및 유사도 측정, 문제 영역 시각화 피드백 제공
+- '오늘의 손글씨' 랭킹, '속필 드롭 게임' 등 학습 몰입도를 높이는 부가 기능 설계
 
 📌 프로젝트 링크: [바른 글씨](https://github.com/yeooooooon/handwriting-ai-web)
 

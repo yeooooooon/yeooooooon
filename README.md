@@ -57,7 +57,6 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
-![Mermaid](https://img.shields.io/badge/Mermaid-000000?style=flat-square&logo=mermaid&logoColor=FF3670)
 
 </div>
 

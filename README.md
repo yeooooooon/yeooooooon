@@ -35,10 +35,13 @@
 
 **Mobile**
 
-![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native (Expo)](https://img.shields.io/badge/React_Native_Expo-000000?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Back-End & DB**
 
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
@@ -46,12 +49,14 @@
 **AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
+![CNN](https://img.shields.io/badge/CNN-000000?style=flat-square)
 
 **Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
+![Mermaid](https://img.shields.io/badge/Mermaid-000000?style=flat-square&logo=mermaid&logoColor=FF3670)
 
 </div>
 
@@ -69,7 +74,7 @@
 
 <br/>
 
-🍀 **사용자 맞춤형 AI 콘텐츠 생성 앱, Crave** `React Native (Expo)` `Firebase` `OpenAI` `Figma` `Illustrator`
+🍀 **사용자 맞춤형 AI 콘텐츠 생성 앱, Crave** `React Native (Expo)` `Node.js` `Firebase` `OpenAI` `Figma` `Illustrator`
 
 > "사용자의 관심사와 키워드를 기반으로 AI가 가사, 문장, 추천 문구 등 다양한 콘텐츠를 생성해주는 개인화 AI 서비스 앱입니다."
 
@@ -80,6 +85,7 @@
 - 관심사 선택 → 기능 선택 → 결과 확인으로 이어지는 직관적인 화면 흐름 설계 및 UI 구현
 - OpenAI API를 활용해 키워드·상황에 맞는 텍스트(가사, 문장, 추천 문구 등) 자동 생성 기능 구현
 - Firebase Authentication 기반 사용자 계정 관리 및 즐겨찾기 기능 구현
+- Node.js 기반 Firebase Functions로 서버 로직 구현
 - 오류·응답 지연 발생 시 로딩 처리 및 화면 전환 구조 개선
 
 📌 프로젝트 링크: [Crave](https://github.com/yeooooooon/crave)

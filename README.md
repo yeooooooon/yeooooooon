@@ -52,6 +52,14 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
 ![CNN](https://img.shields.io/badge/CNN-000000?style=flat-square)
 
+**Data Analysis**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square)
+
 **Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
@@ -110,7 +118,6 @@
 - 8종의 무드 키워드 선택 UI 및 무드별 영화 3편 추천 로직 구현
 - 영화 상세 페이지에서 평점·예고편을 함께 제공하는 몰입형 화면 구성
 - 순수 CSS 기반의 애니메이션·반투명 효과·컬러 트랜지션으로 감성적인 UI 구현
-- Mermaid를 활용한 서비스 아키텍처 다이어그램 설계 및 About 페이지 구성
 - Spring Boot 기반 REST API 서버 및 MySQL 연동 백엔드 구현
 
 📌 프로젝트 링크: [Today's Scene](https://github.com/yeooooooon/Today-s-Scene)
@@ -136,6 +143,31 @@
 - '오늘의 손글씨' 랭킹, '속필 드롭 게임' 등 학습 몰입도를 높이는 부가 기능 설계
 
 📌 프로젝트 링크: [바른 글씨](https://github.com/yeooooooon/handwriting-ai-web)
+
+<br/>
+
+---
+
+### 📊 Data Analysis
+
+<br/>
+
+🔤 **Google Fonts 트렌드 분석, Google Fonts Analysis** `Python` `Jupyter Notebook` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+> "Google Fonts API로 수집한 폰트 메타데이터를 정제하고, 카테고리·기능·언어 지원 등을 기준으로 최근 웹폰트 트렌드를 분석한 데이터 프로젝트입니다."
+
+🧑‍💻 **담당 기능**
+
+[개인 프로젝트 — 데이터 수집부터 전처리, 분석, 시각화까지 전 과정 수행]
+
+- Google Fonts API를 통해 폰트 메타데이터(variants, subsets, popularity_rank 등) 수집
+- 결측치 확인 및 분석용 컬럼 정제를 통한 전처리 파이프라인 구축
+- 최근 12개월 vs 이전 구간 비교를 통한 웹폰트 트렌드 가설 검증
+- 카테고리, Variable Font 지원, 언어 지원, 인기 순위 등 다각도 비교 시각화
+- Sans-serif 비중 증가, Variable Font·다양한 weight 지원 확산 등 트렌드 인사이트 도출
+- 정제된 데이터셋을 CSV로 저장하여 재사용 가능한 분석 자산으로 정리
+
+📌 프로젝트 링크: [Google Fonts Analysis](https://github.com/yeooooooon/google-fonts-analysis)
 
 <br/>
 

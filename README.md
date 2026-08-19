@@ -168,13 +168,3 @@
 - 정제된 데이터셋을 CSV로 저장하여 재사용 가능한 분석 자산으로 정리
 
 📌 프로젝트 링크: [Google Fonts Analysis](https://github.com/yeooooooon/google-fonts-analysis)
-
-<br/>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yeooooooon&color=000000&style=flat-square&label=visitors)
-
-</div>

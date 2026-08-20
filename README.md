@@ -168,3 +168,25 @@
 - 정제된 데이터셋을 CSV로 저장하여 재사용 가능한 분석 자산으로 정리
 
 📌 프로젝트 링크: [Google Fonts Analysis](https://github.com/yeooooooon/google-fonts-analysis)
+
+<br/>
+
+---
+
+<br/>
+
+🎬 **CGV 무비차트 크롤링, CGV Movie Chart Crawling** `Python` `Selenium` `Pandas` `MySQL` `PyMySQL` `python-dotenv` `Jupyter Notebook`
+
+> "CGV 무비차트 페이지에서 영화 정보를 수집하고, 정제한 뒤 CSV와 MySQL에 저장하는 데이터 파이프라인 프로젝트입니다."
+
+🧑‍💻 **담당 기능**
+
+[개인 프로젝트 — 수집부터 전처리, 저장, 검증까지 전 과정 수행]
+
+- Selenium을 활용해 CGV 무비차트 동적 페이지에서 순위, 영화명, 에그지수, 누적 관객 수, 관람등급, 개봉 정보, 포스터 URL 수집
+- 날짜, 관람등급, URL, 숫자 및 결측값 형식을 정리하는 전처리 로직 구현
+- 영화명 기준 중복 데이터 제거 및 개봉·재개봉 여부 분리 처리
+- 원본 및 정제 데이터를 CSV로 저장하고, 정제 데이터를 MySQL `movie_chart` DB의 `cgv_movies` 테이블에 적재
+- CSV와 MySQL 저장 건수를 비교하는 검증 로직으로 데이터 무결성 확인
+
+  📌 프로젝트 링크: [CGV Crawling](https://github.com/yeooooooon/cgv-crawling)

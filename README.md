@@ -24,22 +24,18 @@
 <div align="center">
 
 **Languages**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
 
 **Front-End**
-
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Mobile**
-
 ![React Native (Expo)](https://img.shields.io/badge/React_Native_Expo-000000?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Back-End & DB**
-
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -47,23 +43,20 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-**AI / ML**
+**Data Collection**
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat-square&logo=selenium&logoColor=43B02A)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square)
 
+**AI / ML**
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
-![CNN](https://img.shields.io/badge/CNN-000000?style=flat-square)
 
 **Data Analysis**
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square)
 
 **Tools**
-
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
-![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
 
 </div>

@@ -131,13 +131,13 @@
 
 <br/>
 
-🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript` `Java 17` `Spring Boot` `REST API` `MySQL`
+🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript` `Java 17` `Spring Boot` `REST API` `MySQL` `AWS`
 
 > "사용자의 감정과 무드를 바탕으로 가장 잘 어울리는 영화를 추천해 주는 웹 서비스입니다."
 
 🧑‍💻 **담당 기능**
 
-[개인 프로젝트 — 기획부터 풀스택 개발까지 전 과정 단독 수행]
+[개인 프로젝트 — 기획부터 풀스택 개발에서 배포까지 전 과정 단독 수행]
 
 - OTT 플랫폼 과잉 시대의 콘텐츠 선택 피로를 줄이기 위한 **감성/무드 기반 추천 서비스** 기획
 - 8종의 무드 키워드 선택 UI 및 무드별 영화 3편 추천 로직 구현
@@ -145,6 +145,7 @@
 - 순수 CSS 기반의 애니메이션·반투명 효과·컬러 트랜지션으로 감성적인 UI 구현
 - Mermaid를 활용한 서비스 아키텍처 다이어그램 설계 및 About 페이지 구성
 - Spring Boot 기반 REST API 서버 및 MySQL 연동 백엔드 구현
+- **AWS 환경에 Spring Boot 애플리케이션을 직접 배포**하여 실제 서비스 운영 환경 구성
 
 📌 프로젝트 링크: [Today's Scene](https://github.com/yeooooooon/Today-s-Scene)
 

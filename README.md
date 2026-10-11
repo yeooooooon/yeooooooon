@@ -172,11 +172,3 @@
 📌 프로젝트 링크: [바른 글씨](https://github.com/yeooooooon/handwriting-ai-web)
 
 <br/>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yeooooooon&color=000000&style=flat-square&label=visitors)
-
-</div>

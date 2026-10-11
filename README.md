@@ -3,10 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6f1fb,100:b5d4f4&height=200&section=header&text=Kang%20Yeon%20Jae&fontSize=55&fontColor=0c447c&fontAlignY=38&desc=Building%20beyond%20the%20code,%20creating%20real%20experiences.&descAlignY=62&descSize=16&descColor=185fa5" />
 </div>
 
+<br/>
+
 <!-- 컨택트 -->
 <div align="center">
   <a href="mailto:duswo0907@gmail.com">
     <img src="https://img.shields.io/badge/duswo0907@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yeooooooon">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -18,19 +23,25 @@
 
 <div align="center">
 
-**Languages**  
+**Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
 
-**Front-End**  
+**Front-End**
+
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=646CFF)
 
-**Mobile**  
+**Mobile**
+
 ![React Native (Expo)](https://img.shields.io/badge/React_Native_Expo-000000?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Back-End & DB**  
+**Back-End & DB**
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -38,22 +49,23 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-**Data Collection**  
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat-square&logo=selenium&logoColor=43B02A)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square)
+**AI / ML**
 
-**AI / ML**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![CNN](https://img.shields.io/badge/CNN-000000?style=flat-square)
 
-**Data Analysis**  
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square)
+**Infra / DevOps**
 
-**Tools**  
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+**Tools**
+
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
 ![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
 
 </div>
 
@@ -95,6 +107,30 @@
 
 <br/>
 
+🎓 **대학 인증 기반 익명 커뮤니티·중고거래 플랫폼, UNI:VERSE** `React` `Vite` `Java 21` `Spring Boot` `WebSocket/STOMP` `MySQL` `Python` `FastAPI` `scikit-learn` `Docker` `AWS`
+
+> "학교 인증 기반 익명 커뮤니티와 교내 중고거래를 결합해, 커뮤니티의 익명성과 거래의 신뢰·책임을 함께 보장하는 캠퍼스 플랫폼입니다."
+
+🧑‍💻 **담당 기능**
+
+[팀 프로젝트 (4인, Scrum) - 프론트엔드 전체 구현, 프론트–백엔드 연동, 알림, 회원가입, AI 위험문구 분류 모델 학습]
+
+- 홈·커뮤니티·중고거래·채팅·마이페이지·관리자 등 서비스 전체 화면 구현 및 모바일 반응형 대응
+- 디자인 시스템 기준 색상 토큰과 카드·버튼·모달 스타일을 통일해 프론트 디자인 전면 개편
+- API 클라이언트 계층(`lib/*Api.js`)을 통해 로그인·학교 이메일 인증·커뮤니티·중고거래·채팅 등 프론트–백엔드 연동
+- 세션 남은 시간 표시·연장, 토큰 만료 후 재로그인 시 원래 화면 복귀 등 인증 UX 구현
+- 도메인 이벤트 발행 → `NotificationEventListener` 저장 구조의 **이벤트 기반 알림 기능**과 알림 API·폴링 UI 구현
+- 외부 메신저 유도·선입금·택배 거래 강요 등 **중고거래 위험 문구 분류 모델**(TF-IDF + Logistic Regression) 학습 데이터 구축, 학습 및 재학습
+- 알림 Controller·통합 테스트, 프론트 API 클라이언트 테스트 작성
+
+📌 프로젝트 링크: [UNI:VERSE](https://github.com/yeooooooon/UNI-VERSE) · [팀 포트폴리오](https://uni-verse-team.vercel.app)
+
+<br/>
+
+---
+
+<br/>
+
 🎬 **감정·무드 기반 영화 추천 웹 서비스, Today's Scene** `HTML5` `CSS3` `JavaScript` `Java 17` `Spring Boot` `REST API` `MySQL`
 
 > "사용자의 감정과 무드를 바탕으로 가장 잘 어울리는 영화를 추천해 주는 웹 서비스입니다."
@@ -107,6 +143,7 @@
 - 8종의 무드 키워드 선택 UI 및 무드별 영화 3편 추천 로직 구현
 - 영화 상세 페이지에서 평점·예고편을 함께 제공하는 몰입형 화면 구성
 - 순수 CSS 기반의 애니메이션·반투명 효과·컬러 트랜지션으로 감성적인 UI 구현
+- Mermaid를 활용한 서비스 아키텍처 다이어그램 설계 및 About 페이지 구성
 - Spring Boot 기반 REST API 서버 및 MySQL 연동 백엔드 구현
 
 📌 프로젝트 링크: [Today's Scene](https://github.com/yeooooooon/Today-s-Scene)
@@ -137,45 +174,8 @@
 
 ---
 
-### 📊 Data Analysis
+<div align="center">
 
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=yeooooooon&color=000000&style=flat-square&label=visitors)
 
-🔤 **Google Fonts 트렌드 분석, Google Fonts Analysis** `Python` `Jupyter Notebook` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-> "Google Fonts API로 수집한 폰트 메타데이터를 정제하고, 카테고리·기능·언어 지원 등을 기준으로 최근 웹폰트 트렌드를 분석한 데이터 프로젝트입니다."
-
-🧑‍💻 **담당 기능**
-
-[개인 프로젝트 — 데이터 수집부터 전처리, 분석, 시각화까지 전 과정 수행]
-
-- Google Fonts API를 통해 폰트 메타데이터(variants, subsets, popularity_rank 등) 수집
-- 결측치 확인 및 분석용 컬럼 정제를 통한 전처리 파이프라인 구축
-- 최근 12개월 vs 이전 구간 비교를 통한 웹폰트 트렌드 가설 검증
-- 카테고리, Variable Font 지원, 언어 지원, 인기 순위 등 다각도 비교 시각화
-- Sans-serif 비중 증가, Variable Font·다양한 weight 지원 확산 등 트렌드 인사이트 도출
-- 정제된 데이터셋을 CSV로 저장하여 재사용 가능한 분석 자산으로 정리
-
-📌 프로젝트 링크: [Google Fonts Analysis](https://github.com/yeooooooon/google-fonts-analysis)
-
-<br/>
-
----
-
-<br/>
-
-🎬 **CGV 무비차트 크롤링, CGV Movie Chart Crawling** `Python` `Selenium` `Pandas` `MySQL` `PyMySQL` `python-dotenv` `Jupyter Notebook`
-
-> "CGV 무비차트 페이지에서 영화 정보를 수집하고, 정제한 뒤 CSV와 MySQL에 저장하는 데이터 파이프라인 프로젝트입니다."
-
-🧑‍💻 **담당 기능**
-
-[개인 프로젝트 — 수집부터 전처리, 저장, 검증까지 전 과정 수행]
-
-- Selenium을 활용해 CGV 무비차트 동적 페이지에서 순위, 영화명, 에그지수, 누적 관객 수, 관람등급, 개봉 정보, 포스터 URL 수집
-- 날짜, 관람등급, URL, 숫자 및 결측값 형식을 정리하는 전처리 로직 구현
-- 영화명 기준 중복 데이터 제거 및 개봉·재개봉 여부 분리 처리
-- 원본 및 정제 데이터를 CSV로 저장하고, 정제 데이터를 MySQL `movie_chart` DB의 `cgv_movies` 테이블에 적재
-- CSV와 MySQL 저장 건수를 비교하는 검증 로직으로 데이터 무결성 확인
-
-  📌 프로젝트 링크: [CGV Crawling](https://github.com/yeooooooon/cgv-crawling)
+</div>
